@@ -1,0 +1,15 @@
+C:\dev\TheCalculator\bin\Debug\net6.0\TheCalculator.exe
+C:\dev\TheCalculator\bin\Debug\net6.0\TheCalculator.deps.json
+C:\dev\TheCalculator\bin\Debug\net6.0\TheCalculator.runtimeconfig.json
+C:\dev\TheCalculator\bin\Debug\net6.0\TheCalculator.dll
+C:\dev\TheCalculator\bin\Debug\net6.0\TheCalculator.pdb
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.csproj.AssemblyReference.cache
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.AssemblyInfoInputs.cache
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.AssemblyInfo.cs
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.csproj.CoreCompileInputs.cache
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.dll
+C:\dev\TheCalculator\obj\Debug\net6.0\refint\TheCalculator.dll
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.pdb
+C:\dev\TheCalculator\obj\Debug\net6.0\TheCalculator.genruntimeconfig.cache
+C:\dev\TheCalculator\obj\Debug\net6.0\ref\TheCalculator.dll
